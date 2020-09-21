@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Nintendo</title>
+    <body style = "background: blue">
+  </head>
+  <body>
+    <font size="4" face="bold" color="red">
+    <h1>Nintendo is good!</h1>
+    <p>Nintendo makes the best video games!</p>
+    <h2>Games made by Nintendo -  </h2>
+    <p>Nintendo made: 
+    <p>1.Mario 
+    <p>2.Pokémon
+    <p>3.Donkey Kong
+    <p>4.The Legend of Zelda
+    <p>5.Star Fox </p>
+    <img src="Super_Mario_Bros_Wallpaper_-3840x2160-.png"
+         height = 200p>
+         
+  <h3>Recently, Mario Turned 35!!!</h3> 
+  <p> When Mario turned 35, there was a special Mario 35th Anniversary Nintendo Direct! It was actually pretty amazing! Below is Mario's Special 35th Anniversary Direct video - </p>  
+        
+    <iframe width="540" height="295" src="https://www.youtube.com/embed/s_UcjEq2Dgk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+  <body>
+</html>
+    
+  
