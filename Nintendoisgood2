@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <font size="4" face="Arial" color="Black">
+      
+    <h1> Here are the games made by Nintendo - </h1>
+    <p> 1. Super Mario Bros. </p>
+    <p> 2. The Legend of Zelda </p>
+    <p> 3. Star Fox </p>
+    <p> 4. Donkey Kong </p>
+    <p> 5. Pokémon* </p>
+    <p> 6. Kirby </p>
+      <p> 7. Splatoon 1 and 2 </p>
+    
+      <font size="5" face="Arial" color="red">
+    <p> To view more games visit https://www.nintendo.com !</p>
+        
+        <font size="4" face="Comic Sans" color="Black">
+        <p> * = Pokémon was made by Nintendo AND Game Freak.
+  </body>
+</html>
