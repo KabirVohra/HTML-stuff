@@ -19,6 +19,7 @@
     <p> To view more games visit https://www.nintendo.com !</p>
         
         <font size="4" face="Comic Sans" color="Black">
-        <p> * = Pokémon was made by Nintendo AND Game Freak.
+        <p> * = Pokémon was made by Nintendo AND Game Freak. </p>
+        <a href="index.html">Click here to go back</a>
   </body>
 </html>
